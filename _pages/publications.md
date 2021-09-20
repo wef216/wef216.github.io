@@ -4,7 +4,7 @@ title: "Peer-Reviewed Publications"
 ---
 
 - **Reconcile the debate over protective effects of BCG vaccine against COVID-19** <br>
-  Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou, 2021, <i>Scientific reports</i>, 11(1), pp.1-9.
+  Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou, 2021, <i>Scientific Reports</i>, 11(1), pp.1-9.
 
 
 
