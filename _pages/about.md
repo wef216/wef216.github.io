@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome! I am a post-doctoral researcher in [Wang Lab](https://www.med.upenn.edu/wanglab/) 
 in Perelman School of Medicine at the University of Pennsylvania since June 2020. 
-I got his Ph.D degree in Economics from Lehigh University in 2020. 
+I obtained my Ph.D degree in Economics from Lehigh University in 2020. 
 I am advisored by Professor [Shin-Yi Chou](https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en) from Lehigh University
  and Professor [Li-San Wang](http://edison.pcbi.upenn.edu/~lswang/) from the University of Pennsylvania.
 
