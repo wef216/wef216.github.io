@@ -4,7 +4,7 @@ title: "Working Paper"
 ---
 
 
-- **Culture of individualism hinders the COVID-19 vaccine campaign**. *Submitted*. <br> 
+- **How Culture Affects Collective Efforts in Fighting the COVID? Evidence from Vaccine Campaign**. *Submitted*. <br> 
   Wei Fu, Pei-Chuan Ho, Li-San Wang, and Shin-Yi Chou, July 2021. <br> 
 
 
@@ -14,7 +14,7 @@ title: "Working Paper"
 
 
 - **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. *Under review*. <br> 
-   Wei Fu, Shin-Yi Chou, and Chen Chen, Aug 2021. <br> 
+   Wei Fu, Shin-Yi Chou, Chen Chen, Aug 2021. <br> 
   <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
 
 
@@ -28,9 +28,9 @@ title: "Working Paper"
 
 
 - **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genetic Research**.  <br> 
-   Shin-Yi Chou, Wei Fu, and Li-San Wang, Oct 2020.  <br> 
+   Shin-Yi Chou, Wei Fu, Li-San Wang, Oct 2020.  <br> 
    <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
 
   
 - **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
-   Hui Cao, Shin-Yi Chou, and Wei Fu, Dec 2018.  <br> 
+   Hui Cao, Shin-Yi Chou, Wei Fu, Dec 2018.  <br> 
