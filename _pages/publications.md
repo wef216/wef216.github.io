@@ -15,7 +15,7 @@ title: "Peer-Reviewed Publications"
 
 
 **Publications in Chinese Peer-Reviewed Journals** 
-- **Migration Control Policy in Megalopolis, School Enrollment Requirement and Children left-behind** <span class = "chinese"> (In Chinese) (特大城市人口调控政策、入学门槛与儿童留守) </span> <br>
+- **Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind** <span class = "chinese"> (In Chinese) (特大城市人口调控政策、入学门槛与儿童留守) </span> <br>
   <span class = "authorinfo">  Yuanyuan Chen, and Wei Fu, 2021. <i> China Economic Quarterly </i> <span class = "chinese">  (经济学(季刊)) </span> . Forthcoming. </span>  <br>
 
 
