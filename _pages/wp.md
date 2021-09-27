@@ -9,7 +9,7 @@ title: "Working Paper"
    <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2021. </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
-- **How Culture Affects Collective Efforts in Fighting the COVID? Evidence from Vaccine Campaign**. *Submitted*. <br> 
+- **How Culture Affects Collective Efforts in Fighting the COVID? Evidence from Vaccine Campaign**. *Under Review*. <br> 
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Li-San Wang, and Shin-Yi Chou, 2021. </span>  <br> 
 
 
