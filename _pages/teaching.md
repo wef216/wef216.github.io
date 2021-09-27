@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 
-## Independent adjunct lecture at Lehigh University
+## Independent Adjunct Lecturer at Lehigh University
 - Applied Econometrics (Undergraduate and Graduate Mixed), Spring, 2021.
 - MBA Quantitative Elements (Graduate-level), Summer 2019.
 - Econometrics (Undergraduate-level), Spring 2019.
