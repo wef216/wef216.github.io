@@ -20,11 +20,11 @@ I am advisored by Professor [Shin-Yi Chou](https://scholar.google.com/citations?
 <u> I will be on the job market and attend the 2022 AEA meeting. </u>
 
 <h3 style = "bottom-margin = -10px"> Research Interests </h3> 
-* Social-welfare programs evaluations.
-* Chinese labor market reforms.
-* Application of genetic data to investigate the gene-environment interactions in shaping human behavior.
-* Racial diversity in scientific community and its impact on science advances.
+* Investigating the missing diversity in the scientific community and how it shapes the evolution in science; 
+* Applying the Mendelian randomization in human genetics to economics, assessing the influences of gene-environment interactions on individual's preference and behavior, and quantifying the associated social or economic consequence;
+* Evaluating the welfare effect of public policies among the disadvantaged population.
 
+Download my [research statement](/files/pdf/Research-Statement-Wei.pdf) here.
 
 <h3> Contact information </h3> 
 * Email: Fuwei@pennmedicine.upenn.edu
