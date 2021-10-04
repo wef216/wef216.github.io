@@ -20,9 +20,10 @@ I am advisored by Professor [Shin-Yi Chou](https://scholar.google.com/citations?
 <u> I will be on the job market and attend the 2022 AEA meeting. </u>
 
 <h3 style = "bottom-margin = -10px"> Research Interests </h3> 
-* Investigating the missing diversity in the scientific community and how it shapes the evolution in science; 
-* Applying the Mendelian randomization in human genetics to economics, assessing the influences of gene-environment interactions on individual's preference and behavior, and quantifying the associated social or economic consequence;
-* Evaluating the welfare effect of public policies among the disadvantaged population.
+My interdisciplinary background allows for a variety of possibilities for my research. My research explores diverse themes in applied econometrics spanning from health economics, labor economics to development economics, and inter-disciplinary genoeconomics projects incorporating genetic data into studies on human economic behavior. My current and future work fall into three broad themes:
+* Investigating the missing diversity in the scientific community and how it shapes the evolution in science.
+* Applying the Mendelian randomization in human genetics to economics, assessing the influences of gene-environment interactions on individual's preference and behavior, and quantifying the associated social or economic consequence.
+* Evaluating the (unintended) effects of public policies on the disadvantaged population.
 
 Download my [research statement](/files/pdf/Research-Statement-Wei.pdf) here.
 
