@@ -329,9 +329,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 
 .authorinfo{
-  font-size: 16px;  
+  font-size: 12pt;  
+ }
+
+ .paperstatus{
+  font-size: 12pt;  
  }
 
  .chinese{
   font-size:80%;
+}
+
+
+.textdescription {
+  margin-bottom: 1.3em;
+  font-size: 13pt;
 }

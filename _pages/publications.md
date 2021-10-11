@@ -14,16 +14,17 @@ title: "Peer-Reviewed Publications"
 
 
 **Publications in Chinese Peer-Reviewed Journals** 
-- **Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind** <span class = "chinese"> (In Chinese) (特大城市人口调控政策、入学门槛与儿童留守) </span> <br>
+- **Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind** <span class = "chinese"> (特大城市人口调控政策、入学门槛与儿童留守) </span> <br>
   <span class = "authorinfo">  Yuanyuan Chen, and Wei Fu, 2021. <i> China Economic Quarterly </i> <span class = "chinese">  (经济学(季刊)) </span> . Forthcoming. </span>  <br>
 
 
-- **Land Transfer Right, Rural-to-Urban Migration and Agricultural Production** (In Chinese) <span class = "chinese"> (土地承包经营权流转、劳动力流动与农业生产) </span> <br>
-   <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu,  2017. <i> Management World </i> <span class = "chinese">  (管理世界) </span> 11:79-93.  <br>
-   <small> Award: The Shanghai 14th Philosophy and Social Science Excellent Academic Achievement Award, 2nd Prize (with Yuanyuan Chen), Shanghai, 2018. </small>
+- **Land Transfer Right, Rural-to-Urban Migration and Agricultural Production** <span class = "chinese">  (土地承包经营权流转、劳动力流动与农业生产) </span> <br>
+   <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu,  2017. <i> Management World </i> <span class = "chinese">  (管理世界) </span> 11:79-93. </span> <br>
+   <small> Award: The Shanghai 14th Philosophy and Social Science Excellent Academic Achievement Award, 2nd Prize (with Yuanyuan Chen), Shanghai, 2018. </small> 
 
-- **Purchased by Government or Provided by Family? Estimating the Substitution Effects of Informal Care** (In Chinese) <span class = "chinese"> (政府购买还是家庭照料? 基于家庭照料替代效应的实证分析) </span> <br>
+
+- **Purchased by Government or Provided by Family? Estimating the Substitution Effects of Informal Care** <span class = "chinese"> (政府购买还是家庭照料? 基于家庭照料替代效应的实证分析) </span> <br>
    <span class = "authorinfo"> Wei Fu, and Feng Huang, 2017. <i> Nankai Economic Studies </i> <span class = "chinese">  (南开经济研究) </span>  1:136-152. </span>  <br>
 
-- **Ecological Footprint Analysis of the China’s International Trade** (In Chinese) <span class = "chinese"> (中国进出口贸易内涵自然资本的生态足迹分析) </span>  <br>
+- **Ecological Footprint Analysis of the China’s International Trade** <span class = "chinese"> (中国进出口贸易内涵自然资本的生态足迹分析) </span>  <br>
   <span class = "authorinfo">  Wei Fu, and Zhaohua Li, 2013. <i> China Industrial Economics </i> <span class = "chinese">  (中国工业经济) </span>  9:5-18. </span>
