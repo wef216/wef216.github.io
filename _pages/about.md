@@ -11,7 +11,7 @@ redirect_from:
 &nbsp;
 
 
-<div class = "textdescription"> Welcome! I am a post-doctoral researcher in <a href = "https://www.lisanwanglab.org/" target="_blank"> Wang Lab </a> 
+<div class = "textdescription"> Welcome! I have been a post-doctoral researcher in <a href = "https://www.lisanwanglab.org/" target="_blank"> Wang Lab </a> 
 in Perelman School of Medicine at the University of Pennsylvania since June 2020.
 I obtained my Ph.D. degree in Economics from Lehigh University in 2020. 
 I am advised by Professor <a href = "https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en" target="_blank"> Shin-Yi Chou </a> from Lehigh University
@@ -24,7 +24,7 @@ I am advised by Professor <a href = "https://scholar.google.com/citations?user=L
 My interdisciplinary background allows for a variety of possibilities for my research. My research explores diverse themes in applied econometrics spanning from health economics, labor economics to development economics, and inter-disciplinary genoeconomics projects incorporating genetic data into studies on human economic behavior. My current and future work fall into three broad themes:
 <ul>
 <li> Investigating the missing diversity in the scientific community and how it shapes the evolution in science. </li>
-<li>  Applying the Mendelian randomization in human genetics to economics, assessing the influences of gene-environment interactions on individual's preference and behavior, and quantifying the associated social or economic consequence. </li>
+<li>  Applying the Mendelian randomization in human genetics to economics, assessing the influences of gene-environment interactions on individuals' preference and behavior, and quantifying the associated social or economic consequence. </li>
 <li>  Evaluating the (unintended) effects of public policies on the disadvantaged population. </li>
 </ul>
 </div>
