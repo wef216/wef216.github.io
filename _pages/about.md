@@ -15,9 +15,11 @@ redirect_from:
 in Perelman School of Medicine at the University of Pennsylvania.
 I obtained my Ph.D. in Economics from Lehigh University in 2020. 
 I am advised by Professor <a href = "https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en" target="_blank"> Shin-Yi Chou </a> from Lehigh University
- and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank"> Li-San Wang </a> from the University of Pennsylvania. My dissertation won Lehigh University <a href = "https://www2.lehigh.edu/news/celebration-honors-doctoral-graduates" target="_blank"> 2020 Elizabeth V. Stout Dissertation Award. </a> </div>
+ and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank"> Li-San Wang </a> from the University of Pennsylvania. </div>
 
 <div class = "textdescription"> <u> I am on the job market and will be available for interview at the ASSA 2022 meeting. </u> </div>
+<div class = "textdescription"> My job market paper is titled "NIH Grant Expansion, Ancestral Diversity and Scienfitic Discovery in Genetic Research," which won Lehigh University <a href = "https://www2.lehigh.edu/news/celebration-honors-doctoral-graduates" target="_blank"> 2020 Elizabeth V. Stout Dissertation Award. </a> </div>
+
 
 <h3 style = "bottom-margin = -10px"> Research Interests </h3> 
 <div class = "textdescription">
