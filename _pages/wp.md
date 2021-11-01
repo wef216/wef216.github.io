@@ -28,7 +28,7 @@ title: "Working Papers"
 
 
 - **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genetic Research**.  <br> 
-   <span class = "authorinfo"> Wei Fu, Shin-Yi Chand Li-San Wang, 2021. </span>   <br> 
+   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2021. </span>   <br> 
    <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
 
   
