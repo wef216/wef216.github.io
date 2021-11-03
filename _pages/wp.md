@@ -3,7 +3,9 @@ permalink: /wp/
 title: "Working Papers"
 ---
 
-
+- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genetic Research**.  <br> 
+   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2021. </span>   <br> 
+   <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
 
 - **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior**. <i class = "paperstatus"> R&R at American Journal of Agricultral Economics. </i> <br>
    <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2021. </span> <br> 
@@ -13,7 +15,7 @@ title: "Working Papers"
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Li-San Wang, and Shin-Yi Chou, 2021. </span>  <br> 
 
 
-- **Unintended Consequence of Migration Control Policy on Labor Market and Parent-Child Separation**. <i class = "paperstatus"> Submitted.  </i> <br> 
+- **Unintended Consequence of Migration Control Policy on Labor Market and Parent-Child Separation**. <i class = "paperstatus"> Under Review.  </i> <br> 
    <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu, 2021. </span>  <br> 
    <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> 
 
@@ -25,11 +27,6 @@ title: "Working Papers"
 
 - **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease**. <i class = "paperstatus"> R&R at Journal of Alzheimer's Disease.  </i> <br> 
    <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2020. </span> <br> 
-
-
-- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genetic Research**.  <br> 
-   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2021. </span>   <br> 
-   <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
 
   
 - **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
