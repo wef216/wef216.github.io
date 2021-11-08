@@ -3,8 +3,8 @@ permalink: /wp/
 title: "Working Papers"
 ---
 
-- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genetic Research**.  <br> 
-   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2021. </span>   <br> 
+- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research**.  <br> 
+   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2021. </span>
    <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
 
 - **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior**. <i class = "paperstatus"> R&R at American Journal of Agricultral Economics. </i> <br>
