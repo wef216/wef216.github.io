@@ -3,6 +3,9 @@ permalink: /publications/
 title: "Peer-Reviewed Publications"
 ---
 
+- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease**. <i class = "paperstatus"> Accepted by Journal of Alzheimer's Disease.  </i> <br> 
+   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2021. </span> <br> 
+
 - **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span>  <br> 
 
