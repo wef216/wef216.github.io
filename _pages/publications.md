@@ -3,12 +3,12 @@ permalink: /publications/
 title: "Peer-Reviewed Publications"
 ---
 
-- **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior**. <i class = "paperstatus"> Conditionally accepted by American Journal of Agricultral Economics. </i> <br>
-   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. </span> <br> 
+- **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior** <br>
+   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> Conditionally accepted by American Journal of Agricultral Economics. </i> </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
 - **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease**  <br> 
-   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2021.  <i class = "paperstatus">  Journal of Alzheimer's Disease.  </i> </span> <br> 
+   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2021.  <i>  Journal of Alzheimer's Disease.  </i> </span> <br> 
 
 - **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span>  <br> 
