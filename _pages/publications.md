@@ -1,23 +1,35 @@
 ---
 permalink: /publications/
-title: "Peer-Reviewed Publications"
+title: "Research"
 ---
 
+
+**Peer-Reviewed Publications**
+
 - **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior** <br>
-   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> Conditionally accepted by American Journal of Agricultral Economics. </i> </span> <br> 
+   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> Conditionally accepted by American Journal of Agricultural Economics. </i> </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
-- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease**  <br> 
-   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2021.  <i>  Journal of Alzheimer's Disease.  </i> </span> <br> 
+- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
+   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477 </span> <br> 
+   <small> website: <a href = "https://advp.niagads.org/" target="_blank"> Alzheimer's Disease Variant Portal </a> </small>  <br> 
+
 
 - **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span>  <br> 
-
 
 - **Unemployment Insurance and Cigarette Smoking** <br> 
   <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> <br> 
    <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br> 
    <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small> 
+
+
+**Manucript at the stage of Revise-and-Resubmit**
+
+- **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
+  <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
+  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
+
 
 
 **Publications in Chinese Peer-Reviewed Journals** 
