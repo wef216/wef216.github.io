@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<div class = "textdescription"> You can download my CV <a href = "/files/pdf/CV-Wei.pdf" > </a> and a one-page resume <a href = "/files/pdf/Resume-Wei.pdf" > here. </a> </div>
+<div class = "textdescription"> You can download my <a href = "/files/pdf/CV-Wei.pdf" > CV </a> and a one-page <a href = "/files/pdf/Resume-Wei.pdf" >  resume </a>. </div>
 
 
 <h3> Education </h3>
