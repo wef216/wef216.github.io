@@ -6,7 +6,7 @@ title: "Research"
 
 **Peer-Reviewed Publications**
 
-- **Unemployment Insurance, Food Insecurity and SNAP Takeup Behavior** <br>
+- **Unemployment Insurance, Food Insecurity and SNAP Spending** <br>
    <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> Conditionally accepted by American Journal of Agricultural Economics. </i> </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
