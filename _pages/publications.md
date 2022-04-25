@@ -7,7 +7,7 @@ title: "Research"
 **Peer-Reviewed Publications**
 
 - **Unemployment Insurance, Food Insecurity and SNAP Spending** <br>
-   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> Conditionally accepted by American Journal of Agricultural Economics. </i> </span> <br> 
+   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> American Journal of Agricultural Economics, forthcoming. </i> </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
 - **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
