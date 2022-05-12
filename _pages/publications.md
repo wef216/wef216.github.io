@@ -3,10 +3,26 @@ permalink: /publications/
 title: "Research"
 ---
 
+**Recent Submission**
+
+- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research**. <i class = "paperstatus"> Under Review.  </i> <br> 
+   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2022. </span> <br>
+   <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
+
+- **A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health**. <i class = "paperstatus"> Under Review.  </i> <br> 
+   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2022. </span> <br>
+
+- **Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States.** <i class = "paperstatus"> Under Review.  </i> <br> 
+   <span class = "authorinfo"> Cheng Chen, Wei Fu, Ying-Min Kuo, and Yuanting Wu, 2022. </span>  <br>  
+
+- **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
+  <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
+  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
+
 
 **Peer-Reviewed Publications**
 
-- **Unemployment Insurance, Food Insecurity and SNAP Spending** <br>
+- **Unemployment Benefits, Food Insecurity, and SNAP Spending** <br>
    <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> American Journal of Agricultural Economics, forthcoming. </i> </span> <br> 
    <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
 
@@ -22,13 +38,6 @@ title: "Research"
   <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> <br> 
    <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br> 
    <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small> 
-
-
-**Manucript at the stage of Revise-and-Resubmit**
-
-- **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
-  <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
-  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
 
 
 
