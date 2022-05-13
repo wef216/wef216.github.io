@@ -12,7 +12,7 @@ redirect_from:
 
 
 <div class = "textdescription"> Welcome! I am a post-doctoral researcher in <a href = "https://www.lisanwanglab.org/" target="_blank"> Wang Lab </a> 
-in Perelman School of Medicine at the University of Pennsylvania. I am also a <a href = "https://ldi.upenn.edu/fellows/fellows-directory/wei-fu-phd/" target ="_blank"> LDI research fellow </a> at the Leonard Davis Institute of Health Economic (LDI) at the University of Pennsylvania.
+in Perelman School of Medicine at the University of Pennsylvania. I am also a <a href = "https://ldi.upenn.edu/fellows/fellows-directory/wei-fu-phd/" target ="_blank"> LDI associate fellow </a> at the Leonard Davis Institute of Health Economic (LDI) at the University of Pennsylvania.
 I obtained my Ph.D. in Economics from Lehigh University in 2020. </div>
 
 <div class = "textdescription"> I am advised by Professor <a href = "https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en" target="_blank"> Shin-Yi Chou </a> from Lehigh University
