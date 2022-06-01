@@ -15,6 +15,10 @@ title: "Research"
 - **Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States.** <i class = "paperstatus"> Under Review.  </i> <br> 
    <span class = "authorinfo"> Cheng Chen, Wei Fu, Ying-Min Kuo, and Yuanting Wu, 2022. </span>  <br>  
 
+- **Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China**. <i class = "paperstatus"> Submitted </i> <br> 
+   <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu, 2022. </span>  <br> 
+   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> 
+
 - **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
   <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
