@@ -11,7 +11,7 @@ title: "Research"
 
 - **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
    <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477. </span> | 
-   <small> <span style = "color: red"> Co-first author </span> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; font-weight: normal"> ADVP Website </a> | 
+   <small> <a href = "" target="_blank" style="text-decoration:none; font-weight: normal"> Co-first author </a> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; font-weight: normal"> ADVP Website </a> | 
    <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small>   <br> 
 
 
