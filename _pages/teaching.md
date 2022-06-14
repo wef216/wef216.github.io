@@ -6,7 +6,7 @@ title: "Teaching"
 
 <h3> Independent Adjunct Lecturer at Lehigh University </h3>
 <ul class = "textdescription">
-<li> Applied Econometrics (Undergraduate and Graduate Mixed), Spring, 2021. </li>
+<li> Applied Econometrics (Undergraduate and Graduate Mixed), Spring 2021. </li>
 <li> MBA Quantitative Elements (Graduate-level), Summer 2019. </li>
 <li> Econometrics (Undergraduate-level), Spring 2019. </li>
 <li> Statistical Methods (Undergraduate-level), Summer 2018, Spring 2019. </li>

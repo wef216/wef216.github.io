@@ -3,7 +3,31 @@ permalink: /publications/
 title: "Research"
 ---
 
-**Recent Submission**
+**Peer-Reviewed Publications**
+
+- **Unemployment Benefits, Food Insecurity, and SNAP Spending** <br>
+   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> American Journal of Agricultural Economics, forthcoming. </i> </span> <br> 
+ <!--  <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> -->
+
+- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
+   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477. </span> | 
+   <small> <span style = "color: red"> Co-first author </span> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; color: red; font-weight: normal"> ADVP Website </a> | 
+   <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small>   <br> 
+
+
+- **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
+  <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span> |
+  <small> <a href = "https://www.nature.com/articles/s41598-021-87731-9" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small> <br>
+
+- **Unemployment Insurance and Cigarette Smoking** <br> 
+  <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> |
+ <!--  <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br>  -->
+ <small> <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small> <br>
+   <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small>  <br>
+
+
+
+**Recent Submissions**
 
 - **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research**. <i class = "paperstatus"> Under Review.  </i> <br> 
    <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2022. </span> <br>
@@ -17,32 +41,21 @@ title: "Research"
 
 - **Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China**. <i class = "paperstatus"> Submitted </i> <br> 
    <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu, 2022. </span>  <br> 
-   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> 
+<!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
 - **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
-  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small>
+<!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
 
 
-**Peer-Reviewed Publications**
+**Working Papers** 
 
-- **Unemployment Benefits, Food Insecurity, and SNAP Spending** <br>
-   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> American Journal of Agricultural Economics, forthcoming. </i> </span> <br> 
-   <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> 
-
-- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
-   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. Co-first author. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477 </span> <br> 
-   <small> website: <a href = "https://advp.niagads.org/" target="_blank"> Alzheimer's Disease Variant Portal </a> </small>  <br> 
-
-
-- **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
-  <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span>  <br> 
-
-- **Unemployment Insurance and Cigarette Smoking** <br> 
-  <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> <br> 
-   <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br> 
-   <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small> 
-
+- **State Vaccination Policies, Delayed Care, and Health Expenditures.** <br>
+  <span class = "authorinfo"> Erkmen G. Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin 2022. </span>  |
+  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; color: red; font-weight: normal"> NBER Working Paper </a> </small>  <br>
+  
+- **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
+  <span class = "authorinfo"> Hui Cao, Shin-Yi Chou, and Wei Fu, 2018. </span>   <br> 
 
 
 **Publications in Chinese Peer-Reviewed Journals** 

@@ -7,8 +7,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Working Paper"
-    url: /wp/
+  #- title: "Working Paper"
+  #  url: /wp/
 
   - title: "Teaching"
     url: /teaching/
