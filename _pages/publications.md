@@ -11,18 +11,18 @@ title: "Research"
 
 - **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
    <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477. </span> | 
-   <small> <span style = "color: red"> Co-first author </span> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; color: red; font-weight: normal"> ADVP Website </a> | 
-   <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small>   <br> 
+   <small> <span style = "color: red"> Co-first author </span> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; font-weight: normal"> ADVP Website </a> | 
+   <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small>   <br> 
 
 
 - **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
   <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span> |
-  <small> <a href = "https://www.nature.com/articles/s41598-021-87731-9" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small> <br>
+  <small> <a href = "https://www.nature.com/articles/s41598-021-87731-9" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small> <br>
 
 - **Unemployment Insurance and Cigarette Smoking** <br> 
   <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> |
  <!--  <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br>  -->
- <small> <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560" target = "_blank" style="text-decoration:none; color: red; font-weight: normal"> Published Version </a> </small> <br>
+ <small> <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small> <br>
    <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small>  <br>
 
 
@@ -52,7 +52,7 @@ title: "Research"
 
 - **State Vaccination Policies, Delayed Care, and Health Expenditures.** <br>
   <span class = "authorinfo"> Erkmen G. Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin 2022. </span>  |
-  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; color: red; font-weight: normal"> NBER Working Paper </a> </small>  <br>
+  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; font-weight: normal"> NBER Working Paper [No. 30139] </a> </small>  <br>
   
 - **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
   <span class = "authorinfo"> Hui Cao, Shin-Yi Chou, and Wei Fu, 2018. </span>   <br> 
