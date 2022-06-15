@@ -52,7 +52,7 @@ title: "Research"
 
 - **State Vaccination Policies, Delayed Care, and Health Expenditures.** <br>
   <span class = "authorinfo"> Erkmen G. Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin 2022. </span>  |
-  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; font-weight: normal"> NBER Working Paper [No. 30139] </a> </small>  <br>
+  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; font-weight: normal"> NBER Working Paper [No. 30139] </a> | <a href = "/files/pdf/State Vaccination Policies-slides.pdf" target="_blank">Slides</a> </small>  <br>
   
 - **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
   <span class = "authorinfo"> Hui Cao, Shin-Yi Chou, and Wei Fu, 2018. </span>   <br> 
