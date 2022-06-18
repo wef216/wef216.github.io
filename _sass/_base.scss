@@ -345,3 +345,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   margin-bottom: 1.3em;
   font-size: 13pt;
 }
+
+
+.active {
+  margin-left: -0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  color: #fff;
+  font-weight: bold;
+  background: $primary-color;
+  border-radius: $border-radius;
+
+  &:hover {
+    color: #fff;
+  }
+}
