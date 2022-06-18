@@ -3,73 +3,65 @@ permalink: /publications/
 title: "Research"
 ---
 
-**Peer-Reviewed Publications**
+[Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.com/citations?user=m8-eoB8AAAAJ&hl=en)
 
-- **Unemployment Benefits, Food Insecurity, and SNAP Spending** <br>
-   <span class = "authorinfo">  Wei Fu, Chen Huang, and Feng Liu, 2022. <i> American Journal of Agricultural Economics, forthcoming. </i> </span> <br> 
- <!--  <small> Conference Presentation: APPAM 2020 Virtual Conference, July 2020.  </small> -->
+<h2 id="active">
+Active Research
+</h2>
 
-- **Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease** <br> 
-   <span class = "authorinfo"> Pavel P. Kuksa, Chia-Lun Liu, Wei Fu, Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, Shin-Yi Chou, Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and Li-San Wang. 2022.  <i>  Journal of Alzheimer's Disease.  </i>  86(1):461-477. </span> | 
-   <small> <a href = "" target="_blank" style="text-decoration:none; font-weight: normal"> Co-first author </a> | <a href = "https://advp.niagads.org/" target="_blank" style="text-decoration:none; font-weight: normal"> ADVP Website </a> | 
-   <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small>   <br> 
+### Working Papers
 
+"[NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan], 2022. NBER Working Paper No. 30155. *Under Review*. <br>
+<!--  Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University. -->
 
-- **Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19** <br>
-  <span class = "authorinfo"> Wei Fu, Pei-Chuan Ho, Chia-Lun Liu, Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, Li-San Wang, and Shin-Yi Chou. 2021, <i>Scientific Reports</i> 11(1):1-9. </span> |
-  <small> <a href = "https://www.nature.com/articles/s41598-021-87731-9" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small> <br>
+"[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145)]
+  
+"A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. *Under Review*. 
 
-- **Unemployment Insurance and Cigarette Smoking** <br> 
-  <span class = "authorinfo"> Wei Fu, and Feng Liu, 2019. <i>Journal of Health Economics </i> 63:34-51. </span> |
- <!--  <small> Conference Presentation: Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018; International Health Economic Association Congress, Boston, MA, July 2017; Eastern Economic Association 43th Annual Conference, New York, NY, March 2017.  </small>  <br>  -->
- <small> <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560" target = "_blank" style="text-decoration:none; font-weight: normal"> Published Version </a> </small> <br>
-   <small> Award: 2019 Doctoral Publication Award, Department of Economics, Lehigh University. </small>  <br>
+"[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu.
 
-
-
-**Recent Submissions**
-
-- **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research**. <i class = "paperstatus"> Under Review.  </i> <br> 
-   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2022. </span> <br>
-   <small> Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University.  </small> 
-
-- **A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health**. <i class = "paperstatus"> Under Review.  </i> <br> 
-   <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Li-San Wang, 2022. </span> <br>
-
-- **Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States.** <i class = "paperstatus"> Under Review.  </i> <br> 
-   <span class = "authorinfo"> Cheng Chen, Wei Fu, Ying-Min Kuo, and Yuanting Wu, 2022. </span>  <br>  
-
-- **Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China**. <i class = "paperstatus"> Submitted </i> <br> 
-   <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu, 2022. </span>  <br> 
+"[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. 
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
-- **Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China**. <i class = "paperstatus"> R&R at Economic Development and Cultural Change.  </i> <br> 
-  <span class = "authorinfo"> Wei Fu, Shin-Yi Chou, and Cheng Chen, 2021. </span> <br> 
+"Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Request at *Economic Development and Cultural Change*. 
 <!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
 
-
-**Working Papers** 
-
-- **State Vaccination Policies, Delayed Care, and Health Expenditures.** <br>
-  <span class = "authorinfo"> Erkmen G. Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin 2022. </span>  |
-  <small> <a href = "https://www.nber.org/papers/w30139" target="_blank" style="text-decoration:none; font-weight: normal"> NBER Working Paper [No. 30139] </a> | <a href = "/files/pdf/State Vaccination Policies-slides.pdf" target="_blank">Slides</a> </small>  <br>
-  
-- **Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development**. <br> 
-  <span class = "authorinfo"> Hui Cao, Shin-Yi Chou, and Wei Fu, 2018. </span>   <br> 
+"Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development", with Hui Cao and [Shin-Yi Chou][shinyi], 2018.
 
 
-**Publications in Chinese Peer-Reviewed Journals** 
-- **Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind** <span class = "chinese"> (特大城市人口调控政策、入学门槛与儿童留守) </span> <br>
-  <span class = "authorinfo">  Yuanyuan Chen, and Wei Fu, 2021. <i> China Economic Quarterly </i> <span class = "chinese">  (经济学(季刊)) </span> . Forthcoming. </span>  <br>
+<h2 id="pubs">
+Publications
+</h2>
+
+### Peer-Reviewed Publications
+
+"[Unemployment Benefits, Food Insecurity, and SNAP Spending](/files/pdf/UI-SNAP.pdf)" (final pre-publication draft), with Chen Huang and [Feng Liu][feng], 2022. accepted by *American Journal of Agricultural Economics*. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
+
+"[Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf)", with Pavel P. Kuksa, [Chia-Lun Liu][chialun], Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, [Shin-Yi Chou][shinyi], Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and [Li-San Wang][lisan], 2022. *Journal of Alzheimer's Disease*. 86(1):461-477. [Co-fisrt author, [ADVP Web](https://advp.niagads.org/), [Blog](https://www.penn-ngc.org/alzheimers-disease-variant-portal-advp-the-largest-curated-population-specific-alzheimers-disease-genetics-resource/)]
+
+"[Reconcile the Debate Over Protective Effects of BCG Vaccine against COVID-19](https://www.nature.com/articles/s41598-021-87731-9)",  with Pei-Chuan Ho, [Chia-Lun Liu][chialun], Kai-Teh Tzeng, Nawar Nayeem, Jonni S. Moore, [Li-San Wang][lisan], and [Shin-Yi Chou][shinyi], 2021. *Scientific Reports* 11(1):1-9. [First author] 
+
+"[Unemployment Insurance and Cigarette Smoking](https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560)", with [Feng Liu][feng], 2019. *Journal of Health Economics* 63:34-51.
 
 
-- **Land Transfer Right, Rural-to-Urban Migration and Agricultural Production** <span class = "chinese">  (土地承包经营权流转、劳动力流动与农业生产) </span> <br>
-   <span class = "authorinfo"> Yuanyuan Chen, and Wei Fu,  2017. <i> Management World </i> <span class = "chinese">  (管理世界) </span> 11:79-93. </span> <br>
-   <small> Award: The Shanghai 14th Philosophy and Social Science Excellent Academic Achievement Award, 2nd Prize (with Yuanyuan Chen), Shanghai, 2018. </small> 
+
+### Publications in Chinese Peer-Reviewed Journals
+"Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind" (特大城市人口调控政策、入学门槛与儿童留守), with Yuanyuan Chen, 2021. *China Economic Quarterly* (经济学(季刊)), Forthcoming.
 
 
-- **Purchased by Government or Provided by Family? Estimating the Substitution Effects of Informal Care** <span class = "chinese"> (政府购买还是家庭照料? 基于家庭照料替代效应的实证分析) </span> <br>
-   <span class = "authorinfo"> Wei Fu, and Feng Huang, 2017. <i> Nankai Economic Studies </i> <span class = "chinese">  (南开经济研究) </span>  1:136-152. </span>  <br>
+"Land Transfer Right, Rural-to-Urban Migration and Agricultural Production" (土地承包经营权流转、劳动力流动与农业生产), with Yuanyuan Chen, 2017. *Management World* (管理世界) 11:79-93. <br>
+Award: The Shanghai 14th Philosophy and Social Science Excellent Academic Achievement Award, 2nd Prize (with Yuanyuan Chen), Shanghai, 2018. 
 
-- **Ecological Footprint Analysis of the China’s International Trade** <span class = "chinese"> (中国进出口贸易内涵自然资本的生态足迹分析) </span>  <br>
-  <span class = "authorinfo">  Wei Fu, and Zhaohua Li, 2013. <i> China Industrial Economics </i> <span class = "chinese">  (中国工业经济) </span>  9:5-18. </span>
+
+"Purchased by Government or Provided by Family? Estimating the Substitution Effects of Informal Care" (政府购买还是家庭照料? 基于家庭照料替代效应的实证分析) with Feng Huang, 2017. *Nankai Economic Studies* (南开经济研究) 1:136-152. 
+
+"Ecological Footprint Analysis of the China’s International Trade" (中国进出口贸易内涵自然资本的生态足迹分析) with Zhaohua Li, 2013. *China Industrial Economics* (中国工业经济) 9:5-18.
+
+
+[shinyi]: https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en
+[lisan]: https://scholar.google.com/citations?user=ncxi_G4AAAAJ&hl=en
+[feng]: http://liu-feng.net/
+[erdal]: http://www.erdaltekin.com/
+[erkmen]: https://www.erkmengirayaslim.com/
+[chialun]: https://sites.google.com/view/chialunliu
+[cheng]: http://www.chen-cheng.net/
