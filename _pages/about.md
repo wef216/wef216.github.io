@@ -18,9 +18,9 @@ I obtained my Ph.D. in Economics from Lehigh University in 2020.
 I am advised by Professor <a href = "https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en" target="_blank"> Shin-Yi Chou </a> from Lehigh University
 and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank"> Li-San Wang </a> from the University of Pennsylvania. 
 
-### New Developments 
-* June '13 - **New** NBER working paper [No. 30139] sutyding [how COVID vaccine campagin affects medical treatment utilization]("https://www.nber.org/papers/w30139"). My coauthor Erkmen Aslim will present it at the fifth virtual conference of the “COVID-19 and Health Outcomes” on June 24, 2022.
-* May '18 - I am a fellow at Leonard Instutite of Health Economics ([LDI]("https://ldi.upenn.edu/")) at University of Pennsylvania.
+### New Updates: 
+* June '13 - **New** NBER working paper [No. 30139] sutyding [how COVID vaccine campagin affects medical treatment utilization](https://www.nber.org/papers/w30139). My coauthor Erkmen Aslim will present it at the fifth virtual conference of the “COVID-19 and Health Outcomes” on June 24, 2022.
+* May '18 - I am a fellow at Leonard Instutite of Health Economics ([LDI](https://ldi.upenn.edu/)) at University of Pennsylvania.
 
 
 ### Contact information
