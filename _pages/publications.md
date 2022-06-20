@@ -11,7 +11,7 @@ Active Research
 
 ### Working Papers
 
-"[NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan], 2022. NBER Working Paper No. 30155. *Under Review*. <br>
+"[NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](https://www.nber.org/papers/w30155?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29)", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan], 2022. NBER Working Paper No. 30155. *Under Review*. <br>
 <!--  Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University. -->
 
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145)]
