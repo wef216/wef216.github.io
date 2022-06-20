@@ -20,7 +20,7 @@ and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank">
 
 ### New Updates: 
 * June '20 - **New** NBER working paper [No. 30155] just came out. It quantifies [the impact of NIH grant expansion due to ARRA on ancestral diversity in human genomics science](https://www.nber.org/papers/w30155?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg29). 
-* June '13 - **New** NBER working paper [No. 30139] sutyding [how COVID vaccine campagin affects medical treatment utilization](https://www.nber.org/papers/w30139). My coauthor Erkmen Aslim will present it at the fifth virtual conference of the “COVID-19 and Health Outcomes” on June 24, 2022.
+* June '13 - My **New** NBER working paper [No. 30139] sutyding [how COVID vaccine campagin affects medical treatment utilization](https://www.nber.org/papers/w30139). My coauthor Erkmen Aslim will present it at the fifth virtual conference of the “COVID-19 and Health Outcomes” on June 24, 2022.
 * May '18 - I am a fellow at Leonard Instutite of Health Economics ([LDI](https://ldi.upenn.edu/)) at University of Pennsylvania.
 
 
