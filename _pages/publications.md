@@ -35,7 +35,7 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[Unemployment Benefits, Food Insecurity, and SNAP Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2022. accepted by *American Journal of Agricultural Economics*. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
+"[Unemployment Benefits, Food Insecurity, and Supplemental Nutrition Assistance Program Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2022. accepted by *American Journal of Agricultural Economics*. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
 
 "[Alzheimer’s Disease Variant Portal (ADVP): A Catalog of Genetic Findings for Alzheimer’s Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9028687/pdf/jad-86-jad215055.pdf)", with Pavel P. Kuksa, [Chia-Lun Liu][chialun], Liming Qu, Yi Zhao, Zivadin Katanic, Amanda B Kuzma, Pei-Chuan Ho, Kai-Teh Tzeng, Otto Valladares, [Shin-Yi Chou][shinyi], Adam C Naj, Gerard D Schellenberg, Yuk Yee Leung, and [Li-San Wang][lisan], 2022. *Journal of Alzheimer's Disease*. 86(1):461-477. [Co-fisrt author, [ADVP Web](https://advp.niagads.org/), [Blog](https://www.penn-ngc.org/alzheimers-disease-variant-portal-advp-the-largest-curated-population-specific-alzheimers-disease-genetics-resource/)]
 
