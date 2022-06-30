@@ -18,7 +18,7 @@ Active Research
   
 "A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. *Under Review*. 
 
-"[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu.
+"[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu. *Under Review*. 
 
 "[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. 
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
