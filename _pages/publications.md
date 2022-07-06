@@ -29,6 +29,16 @@ Active Research
 "Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development", with Hui Cao and [Shin-Yi Chou][shinyi], 2018.
 
 
+### Selected Work in Progress
+Personality Genes and Occupational Choice 
+
+Opioids and Crime 
+
+Racial Diversity and Collective Actions
+
+Gender Norm, Labor Specfication during the Pandemic
+
+
 <h2 id="pubs">
 Publications
 </h2>
