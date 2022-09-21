@@ -15,13 +15,17 @@ Active Research
 <!--  Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University. -->
 
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]
-  
+ 
 "A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. *Under Review*. 
 
 "[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu. *Under Review*. 
 
 "[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. *Under Review*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
+
+ "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
+
+"The Prediction of Alzheimer's Disease through Multi-Trait Genetic Modeling", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], Jung-Ying Tzeng, Wan-Ping Lee, Kaylyn Clark, [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
 
 "Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Request at *Economic Development and Cultural Change*. 
 <!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
