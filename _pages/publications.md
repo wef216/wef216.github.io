@@ -20,7 +20,7 @@ Active Research
 
 "[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu. *Under Review*. 
 
-"[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. *Under Review*.
+"[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. *Revision Requested by the Journal of Population Economics*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
