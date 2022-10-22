@@ -3,19 +3,19 @@ permalink: /publications/
 title: "Research"
 ---
 
- [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)]Other Publications](#other)
+ [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=m8-eoB8AAAAJ&hl=en)  &nbsp; &nbsp; - &nbsp; &nbsp; [Other Publications](#other)
 
 <h2 id="pubs">
-Publications
+Publications & Revise-and-Resubmits
 </h2>
 
 
 ### Recent Revise-and-Resubmits
-"[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. *Revision Requested by the Journal of Population Economics*.
+"[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. Revision Requested by the *Journal of Population Economics*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
 
-"Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Requested at *Economic Development and Cultural Change*. 
+"Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Requested by *Economic Development and Cultural Change*. 
 <!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
 
 
