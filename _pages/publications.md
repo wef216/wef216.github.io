@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Research"
 ---
 
- [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.com/citations?user=m8-eoB8AAAAJ&hl=en)
+ [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)]Other Publications](#other)
 
 <h2 id="pubs">
 Publications
@@ -56,8 +56,11 @@ Active Research
 
 
 
+<h2 id="other">
+Other Publications in Peer-Reviewed Chinese Journals
+</h2>
 
-### Publications in Chinese Peer-Reviewed Journals
+
 "Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind" (特大城市人口调控政策、入学门槛与儿童留守), with Yuanyuan Chen, 2021. *China Economic Quarterly* (经济学(季刊)), Forthcoming.
 
 
