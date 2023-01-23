@@ -14,6 +14,7 @@ Publications & Revise-and-Resubmits
 "[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. Revision Requested by the *Journal of Population Economics*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
+"The Mental Health Impact of Losing Constitutional Right to Abortion", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe]. Revisision Requested by *JAMA Network Open* 2022.
 
 "Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Requested by *Economic Development and Cultural Change*. 
 <!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
@@ -43,8 +44,6 @@ Active Research
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]
  
 "In and Out of Food Insecurity? The Role of Pharmaceutical Interventions and Financial Optimism", with [Erkmen G. Aslim][erkmen], [Erdal Tekin][erdal], and Shijun You, 2022. *Draft coming soon*.
-
-"The Mental Health Impact of Losing Constitutional Right to Abortion", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe], 2022.
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
  
