@@ -16,6 +16,9 @@ Publications & Revise-and-Resubmits
 
 "The Mental Health Impact of Losing Constitutional Right to Abortion", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe]. Revision Requested by *JAMA Network Open*.
 
+"NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. 
+<!--   <small>  This is a part of our NBER working paper [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)". </small> -->
+
 "Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Requested by *Economic Development and Cultural Change*. 
 <!--  <small> Conference Presentation: The 2019 meetings of Society of Economics of the HOusehold (SEHO), Lisbon, Portugal, May 2019; Chinese Economist Society North America Annual Conference, Athens, GA, April 2018; Eastern Economic Association 44th Annual Conference, Boston, MA, March 2018. </small> -->
 
