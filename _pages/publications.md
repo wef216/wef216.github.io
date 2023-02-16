@@ -16,7 +16,7 @@ Publications & Revise-and-Resubmits
 
 "The Mental Health Impact of Losing Constitutional Right to Abortion", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe]. Revision Requested by *JAMA Network Open*.
 
-"NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. 
+"NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. <br>
 <small>  This is a part of our NBER working paper [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)". </small> 
 
 "Sharing Benefits Not Risks? Estimating Household Sharing Behaviors Using Two Quasi-Natural Experiments in China", with [Shin-Yi Chou][shinyi] and [Cheng Chen][cheng]. Revision Requested by *Economic Development and Cultural Change*. 
