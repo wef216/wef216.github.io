@@ -46,7 +46,7 @@ Active Research
 
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]
  
-"In and Out of Food Insecurity? The Role of Pharmaceutical Interventions and Financial Optimism", with [Erkmen G. Aslim][erkmen], [Erdal Tekin][erdal], and Shijun You, 2022. *Draft coming soon*.
+"From Syringes to Dishes: Improving Food Security through Vaccination", with [Erkmen G. Aslim][erkmen], [Erdal Tekin][erdal], and Shijun You, 2022.
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
  
