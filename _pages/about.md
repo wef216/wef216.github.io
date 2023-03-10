@@ -21,9 +21,7 @@ and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank">
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 ### Contact information
 * Email: Fuwei@pennmedicine.upenn.edu 
 * D101 Richards Building, 3700 Hamilton Walk, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104. 
