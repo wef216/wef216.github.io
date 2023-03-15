@@ -20,7 +20,7 @@ and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank">
 
 <br>
 ### News
-* Our new working paper titlted "From Syringes to Dishes: Improving Food Security through Vaccination" is now avaible here: [NBER Working Paper No. 31045](http://www.nber.org/papers/w31045), [IZA Discussion Paper No. 16009](https://docs.iza.org/dp16009.pdf). 
+* Our new working paper titled "From Syringes to Dishes: Improving Food Security through Vaccination" is now avaible here: [NBER Working Paper No. 31045](http://www.nber.org/papers/w31045), [IZA Discussion Paper No. 16009](https://docs.iza.org/dp16009.pdf). 
 
 <br>
 <br>
