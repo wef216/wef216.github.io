@@ -41,12 +41,12 @@ Active Research
 
 ### Working Papers
 
+"[From Syringes to Dishes: Improving Food Security through Vaccination](http://www.nber.org/papers/w31045)", with [Erkmen G. Aslim][erkmen], [Erdal Tekin][erdal], and Shijun You, 2023. [NBER Working Paper No. 31045](http://www.nber.org/papers/w31045), [IZA Discussion Paper No. 16009](https://docs.iza.org/dp16009.pdf). 
+
 "[NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan], 2022. NBER Working Paper No. 30155. [[Presentation Slides](/files/pdf/PNGC_Seminar.pptx), [Manuscript Version September 2022](/files/pdf/Manuscript.pdf), [Appendix A](/files/pdf/Appendix-A-Submission.pdf)] 
 <!--  Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University. -->
 
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]
- 
-"From Syringes to Dishes: Improving Food Security through Vaccination", with [Erkmen G. Aslim][erkmen], [Erdal Tekin][erdal], and Shijun You, 2022.
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
  
