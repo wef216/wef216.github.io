@@ -19,6 +19,9 @@ I am advised by Professor <a href = "https://scholar.google.com/citations?user=L
 and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank"> Li-San Wang </a> from the University of Pennsylvania. 
 
 <br>
+### News
+* Our new working paper titlted "From Syringes to Dishes: Improving Food Security through Vaccination" is now avaible here: [NBER Working Paper No. 31045](http://www.nber.org/papers/w31045), [IZA Discussion Paper No. 16009](https://docs.iza.org/dp16009.pdf). 
+
 <br>
 <br>
 
