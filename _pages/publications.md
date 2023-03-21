@@ -25,7 +25,7 @@ Publications & Revise-and-Resubmits
 
 ### Peer-Reviewed Publications
 
-"[Unemployment Benefits, Food Insecurity, and Supplemental Nutrition Assistance Program Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2022. accepted by *American Journal of Agricultural Economics*. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
+"[Unemployment Benefits, Food Insecurity, and Supplemental Nutrition Assistance Program Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2023. *American Journal of Agricultural Economics* 105(2):479-502. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
 
 "[Unemployment Insurance and Cigarette Smoking](https://www.sciencedirect.com/science/article/abs/pii/S0167629618300560)", with [Feng Liu][feng], 2019. *Journal of Health Economics* 63:34-51.
 
