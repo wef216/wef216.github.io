@@ -11,10 +11,11 @@ Publications & Revise-and-Resubmits
 
 
 ### Recent Revise-and-Resubmits
+
 "[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. Revision Requested by the *Journal of Population Economics*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
-"The Mental Health Impact of Losing Constitutional Right to Abortion", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe]. Revision Requested by *JAMA Network Open*.
+"[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]. Revision Requested by the *Economic Journal*.
 
 "NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. <br>
 <small>  This is a part of our NBER working paper [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)". </small> 
@@ -24,6 +25,8 @@ Publications & Revise-and-Resubmits
 
 
 ### Peer-Reviewed Publications
+
+"[Mental Distress Among Female Individuals of Reproductive Age and Reported Barriers to Legal Abortion Following the US Supreme Court Decision to Overturn Roe v Wade](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802750)", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe], 2023. *JAMA Network Open* 6(3):e234509.
 
 "[Unemployment Benefits, Food Insecurity, and Supplemental Nutrition Assistance Program Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2023. *American Journal of Agricultural Economics* 105(2):479-502. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
 
@@ -45,8 +48,6 @@ Active Research
 
 "[NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan], 2022. NBER Working Paper No. 30155. [[Presentation Slides](/files/pdf/PNGC_Seminar.pptx), [Manuscript Version September 2022](/files/pdf/Manuscript.pdf), [Appendix A](/files/pdf/Appendix-A-Submission.pdf)] 
 <!--  Award: 2020 Elizabeth V. Stout Dissertation Award, Lehigh University. -->
-
-"[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
  
