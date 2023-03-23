@@ -15,7 +15,7 @@ Publications & Revise-and-Resubmits
 "[Migration Control Policy and Parent-Child Separation among Migrant Families: Evidence from China](/files/pdf/Migrant.pdf)", with Yuanyuan Chen. Revision Requested by the *Journal of Population Economics*.
 <!--   <small>  Conference Presentation: The 2020 meetings of Society of Economics of the HOusehold (SEHO), Venice, Italy, May 2020 (Canceled due to COVID-19 Pandemic). </small> -->
 
-"[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal], 2022. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]. Revision Requested by the *Economic Journal*.
+"[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal]. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]. Revision Requested by the *Economic Journal*.
 
 "NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. <br>
 <small>  This is a part of our NBER working paper [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)". </small> 
