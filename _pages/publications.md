@@ -66,7 +66,7 @@ Other Publications in Peer-Reviewed Chinese Journals
 </h2>
 
 
-"Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind" (特大城市人口调控政策、入学门槛与儿童留守), with Yuanyuan Chen, 2023. *China Economic Quarterly* (经济学(季刊)), Forthcoming.
+"Migration Control Policy in Megalopolis, School Enrollment Requirement and Children Left-behind" (特大城市人口调控政策、入学门槛与儿童留守), with Yuanyuan Chen, 2023. *China Economic Quarterly* (经济学(季刊)) 23(1): 91-107.
 
 
 "Land Transfer Right, Rural-to-Urban Migration and Agricultural Production" (土地承包经营权流转、劳动力流动与农业生产), with Yuanyuan Chen, 2017. *Management World* (管理世界) 11:79-93. <br>
