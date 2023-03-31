@@ -18,6 +18,9 @@ I obtained my Ph.D. in Economics from Lehigh University in 2020.
 I am advised by Professor <a href = "https://scholar.google.com/citations?user=LqsHmsQAAAAJ&hl=en" target="_blank"> Shin-Yi Chou </a> from Lehigh University
 and Professor <a href = "http://edison.pcbi.upenn.edu/~lswang/" target="_blank"> Li-San Wang </a> from the University of Pennsylvania. 
 
+I will be joining as an assistant professor in the Health Management and Systems Sciences Department at the University of Louisville School of Public Health and Information Sciences in July, 2023.
+
+
 <br>
 ### News
 * Our new working paper titled "From Syringes to Dishes: Improving Food Security through Vaccination" is now avaible here: [NBER Working Paper No. 31045](http://www.nber.org/papers/w31045), [IZA Discussion Paper No. 16009](https://docs.iza.org/dp16009.pdf). 
