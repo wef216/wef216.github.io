@@ -26,7 +26,7 @@ Publications & Revise-and-Resubmits
 
 ### Peer-Reviewed Publications
 
-"[Mental Distress Among Female Individuals of Reproductive Age and Reported Barriers to Legal Abortion Following the US Supreme Court Decision to Overturn Roe v Wade](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802750)", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe], 2023. *JAMA Network Open* 6(3):e234509.[Media: [Healio](https://www.healio.com/news/womens-health-ob-gyn/20230323/loss-of-abortion-rights-linked-to-10-increase-in-mental-distress-for-women)]
+"[Mental Distress Among Female Individuals of Reproductive Age and Reported Barriers to Legal Abortion Following the US Supreme Court Decision to Overturn Roe v Wade](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802750)", with [Dhaval Dave][dave], and [Muzhe Yang][muzhe], 2023. *JAMA Network Open* 6(3):e234509.[Media: [Salon](https://www.salon.com/2023/04/02/overturning-roe-v-wade-increased-mental-health-distress-in-women-study-finds/), [Healio](https://www.healio.com/news/womens-health-ob-gyn/20230323/loss-of-abortion-rights-linked-to-10-increase-in-mental-distress-for-women)]
 
 "[Unemployment Benefits, Food Insecurity, and Supplemental Nutrition Assistance Program Spending](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12322)", with Chen Huang and [Feng Liu][feng], 2023. *American Journal of Agricultural Economics* 105(2):479-502. [[Supplemental Material](/files/pdf/UI-SNAP-Appendix.pdf)]
 
