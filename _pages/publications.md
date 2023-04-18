@@ -17,6 +17,8 @@ Publications & Revise-and-Resubmits
 
 "[State Vaccination Policies, Delayed Care, and Health Expenditures](https://www.nber.org/papers/w30139)", with [Erkmen G. Aslim][erkmen], [Chia-Lun Liu][chialun], and [Erdal Tekin][erdal]. NBER Working Paper No. 30139. [[Presentation Slides](/files/pdf/State-Vaccination-Policies-slides.pdf), [Thread](https://twitter.com/girayaslim/status/1536306370483462145), [Podcast Episode](https://freakonomics.com/podcast/office-hours-with-bapu/)]. Revision Requested by the *Economic Journal*.
 
+"A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by the *Social Science and Medicine*.
+
 "NIH Grant Expansion and Scientific Discovery", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. Revision Requested by *Communications Biology*. <br>
 <small>  This is a part of our NBER working paper [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](/files/pdf/NIH-Grant-NBER.pdf)". </small> 
 
@@ -51,7 +53,6 @@ Active Research
 
  "Extraversion Genes, Childhood Environment, and Occupational Choices", with [Shin-Yi Chou][shinyi], [Li-San Wang][lisan], [Chia-Lun Liu][chialun], and Pei-Chuan Ho, 2022.
  
-"A Single Dose For Me, A Big Protection For Us: Culture, COVID Vaccination Eligibility Expansion, and Public Health", with [Shin-Yi Chou][shinyi], and [Li-San Wang][lisan]. *Under Review*. 
 
 "[Culture, Policy Obedience, and Virus Spread: Evidence from The Anti-COVID Efforts in The United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097271)", with [Cheng Chen][cheng], Ying-Min Kuo, and Yuanting Wu. *Under Review*. 
 
