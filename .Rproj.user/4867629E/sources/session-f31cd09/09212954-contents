@@ -7,7 +7,7 @@ description-meta: "Dr. Wei Fu is a health economist"
 author-meta: "Wei Fu"
 
 website:
-  title: "weifu"
+  title: "Wei Fu"
   navbar:
     left:
       - href: index.qmd
