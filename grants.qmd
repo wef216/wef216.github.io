@@ -35,7 +35,7 @@ Interventions** \
 &nbsp;&nbsp; Funding Agency: Kentucky Cabinet for Health and Family Services \
 &nbsp;&nbsp; Budget: $1,712,449.62  \
 &nbsp;&nbsp; Funding Period: 2023-2024 \
-&nbsp;&nbsp; Role: Co-PI, effort: 11.3%  \
+&nbsp;&nbsp; Role: Co-I, effort: 11.3%  \
 &nbsp;&nbsp; PI: Dr. Brian Schaefer, University of Louisville \
 
 <center><hr style="width:50%"></center>
