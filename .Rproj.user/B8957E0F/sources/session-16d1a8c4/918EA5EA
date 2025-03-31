@@ -3,7 +3,7 @@
     "path": "C:/Users/w0fu0001/Desktop/wef216.github.io/publications.qmd",
     "project_path": "publications.qmd",
     "type": "quarto_markdown",
-    "hash": "218371358",
+    "hash": "1223023765",
     "contents": "",
     "dirty": false,
     "created": 1743104455927.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "31,190",
+        "cursorPosition": "32,29",
         "scrollLine": "21",
         "rmdVisualModeLocation": "1770:600"
     },
     "folds": "",
-    "lastKnownWriteTime": 1743345042,
+    "lastKnownWriteTime": 1743441497,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1743345042125,
+    "last_content_update": 1743441497691,
     "read_only": false,
     "read_only_alternatives": []
 }
