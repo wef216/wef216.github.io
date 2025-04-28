@@ -25,17 +25,13 @@ Notes:\
 
 ## Working Paper
 
-Erkmen G. Aslim, **Wei Fu**, Erdal Tekin, and Shijun You. 2023. [From Syringes to Dishes: Improving Food Security through Vaccination](https://www.nber.org/papers/w31045) 2023. 2nd round R&R at *Journal of Public Economics*. NBER Working Paper No. 31045, IZA Discussion Paper No. 16009.
-
 **Wei Fu**<sup>+</sup>, Shin-Yi Chou, and Li-San Wang. 2022. [NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research](https://www.nber.org/papers/w30155). NBER Working Paper No. 30155. R&R at *Journal of Population Economics*
 
-**Wei Fu**<sup>++</sup>, Melissa B. Eggen, and Qi Zheng. 2024. The 2005 TennCare Disenrollments Increased Rates of Intimate Partner Violence: Insights for the Post-COVID Medicaid Unwinding. *Minor R&R at Health Services Research*
+**Wei Fu** and Muzhe Yang. 2025. Homes in Limbo, Children at Risk: Exploring the Link between Housing Instability and Child Maltreatment Using the Discontinuity of the Protecting Tenants at Foreclosure Act. *Submitted*
 
 **Wei Fu**<sup>+</sup>, Seyed Karimi, Hamid Zarei, and Xi Chen. 2024. The Inclusion of ADRD Hierarchical Condition Category in Medicare Advantage Risk Adjustment Model is Associated with Improved Access to Healthcare.
 
-Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2024 Improving Fairness in Aging-Related AI: A Conceptual Model for Mitigating Biases. *Submitted*
-
-**Wei Fu** and Muzhe Yang. 2024. Homes in Limbo, Children at Risk: Exploring the Link between Housing Instability and Child Maltreatment Using the Discontinuity of the Protecting Tenants at Foreclosure Act. *Submitted*
+Qingwei Wang, **Wei Fu**, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2024. Improving Fairness in Aging-Related AI: A Conceptual Model for Mitigating Biases. *Submitted*
 
 Shijun You, **Wei Fu** and Shin-Yi Chou. 2024.Communities in Action: Drug-Free Communities and Juvenile Drug Crime.
 
@@ -46,6 +42,9 @@ Aslim Erkmen, **Wei Fu**, and Erdal Tekin. 2024. [Proximity to Abortion Services
 **Wei Fu**<sup>++</sup>, Shin-Yi Chou, Li-San Wang, Chia-Lun Liu, and Pei-Chuan Ho. 2022. The Interplay of Extraversion Genes and Childhood Environment in Occupational Sorting.
 
 ## Peer-reviewed Journal Paper
+\[Econ\] Erkmen G. Aslim, **Wei Fu**, Erdal Tekin, and Shijun You. 2025. [From Syringes to Dishes: Improving Food Security through Vaccination](https://www.nber.org/papers/w31045). Accepted by *Journal of Public Economics*. NBER Working Paper No. 31045, IZA Discussion Paper No. 16009.
+
+\[PH\] **Wei Fu**<sup>+</sup>, Melissa B. Eggen, and Qi Zheng. 2024. The 2005 TennCare Disenrollments Increased Rates of Intimate Partner Violence: Insights for the Post-COVID Medicaid Unwinding. Accepted by *Health Services Research*
 
 \[Econ\] Ashley Bradford, **Wei Fu**\*, and Shijun You. 2024. [The Devastating Dance between Opioid and Housing Crises: Evidence from OxyContin Reformulation](https://www.sciencedirect.com/science/article/abs/pii/S0167629624000754). *Journal of Health Economics* 98:102930.
 
