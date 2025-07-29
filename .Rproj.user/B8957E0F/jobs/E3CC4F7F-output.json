@@ -1,0 +1,6 @@
+[1,"==> quarto preview publications.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: publications.html\n  standalone: true\n  title-prefix: Wei Fu\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n    - /custom.css\n  toc: true\n  email-obfuscation: javascript\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  description-meta: 'Information, pdfs, and social metrics of papers'\n  author-meta: Wei Fu\n  editor: visual\n  theme: cosmo\n  footnotes-hover: true\n  code-copy: true\n  title: Publications\n  title-block-banner: false\n  \n"]
+[1,"Output created: docs\\publications.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:5206/publications.html\n"]
+[1,"GET: /publications.html\n"]
+[1,"  /custom.css (404: Not Found)\n"]
