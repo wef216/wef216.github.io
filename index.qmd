@@ -71,17 +71,13 @@ listing:
 ---
 
 ::: {#hero-heading}
-<br>
-<br>
-<br>
-**Appointment:** Assistant professor of health economics in the [Department of Health Management and Systems Sciences](https://louisville.edu/sphis/directory/wei-fu-phd){.external target="_blank"}, University of Louisville (UofL).
-
+<br> <br> <br> **Appointment:** Assistant professor of health economics in the [Department of Health Management and Systems Sciences](https://louisville.edu/sphis/directory/wei-fu-phd){.external target="_blank"}, University of Louisville (UofL).
 
 **Education:** Ph.D. in Economics from [Lehigh University](https://www2.lehigh.edu/){.external target="_blank"} in 2020.
 
-**Post-Doc trainings:**  [Perelman School of Medicine](https://www.med.upenn.edu/){.external target="_blank"} at the University of Pennsylvania. 
+**Post-Doc trainings:** [Perelman School of Medicine](https://www.med.upenn.edu/){.external target="_blank"} at the University of Pennsylvania.
 
-**Research Field:** Health Economics, Applied Microeconometrics. 
+**Research Field:** Health Economics, Applied Microeconometrics.
 
 You can find my recent [CV](files/Wei-Fu-CV.pdf){.external target="_blank"} and [Papers](publications.qmd) here.
 :::
