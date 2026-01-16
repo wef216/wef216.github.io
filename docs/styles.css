@@ -1,1 +1,28 @@
 /* css styles */
+a:link {
+  color: black; /* Unvisited link */
+  text-decoration: none;
+}
+
+a:visited {
+  color: black; /* Visited link */
+}
+
+a:hover {
+  color: black; /* Mouse over link */
+}
+
+a:active {
+  color: black; /* Selected link */
+}
+
+
+/* Styles all paragraph text to be black */
+p {
+  color: black;
+}
+
+/* Header */
+h3 {
+  color: maroon;
+}
