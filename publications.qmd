@@ -44,7 +44,7 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 
 **The Devastating Dance between Opioid and Housing Crises: Evidence from OxyContin Reformulation** <br>
-         Ashley Bradford,  Wei Fu, and Shijun You. 2024 <br>
+         Ashley C. Bradford,  Wei Fu, and Shijun You. 2024 <br>
          <u> *Journal of Health Economics* </u> <br>
          <font size="3"> [[Published version](https://www.sciencedirect.com/science/article/abs/pii/S0167629624000754)]</font>
 
@@ -64,10 +64,10 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 **Proximity to Abortion Services and Child Maltreatment** <br>
          Aslim Erkmen, Wei Fu, and Erdal Tekin. 2025. <br>
          <u> *Submitted*</u>,  <br>
-         <font size="3"> [[National Bureau of Economic Research No. w32771](https://www.nber.org/papers/w32771)]</font>
+         <font size="3"> [[NBER Working Paper No. w32771](https://www.nber.org/papers/w32771)]</font>
 
 **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research** <br>
-         Wei Fu<sup>+</sup>, Shin-Yi Chou, and Li-San Wang. 2022.  <br>
+         Wei Fu<sup>+</sup>, Shin-Yi Chou, and Li-San Wang. 2026.  <br>
          <u> Accepted, *Journal of Population Economic*</u>,  <br>
          <font size="3"> [[NBER Working Paper No. 30155](https://www.nber.org/papers/w30155)]</font>
 
