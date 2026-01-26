@@ -123,9 +123,13 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 
 ### Cognitive Function in Later-Life
+**Improving Fairness in Aging-related AI: A Conceptual Model for Mitigating Biases.** <br>
+         Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2025. <br>
+         <u> *R&R at Gerontologist* </u>  <br>
+
 **The Inclusion of ADRD Hierarchical Condition Category in Medicare Advantage Risk Adjustment Model is Associated with Improved Access to Healthcare** <br>
          Wei Fu<sup>+</sup>, Yuting Qian, Seyed Karimi, Hamid Zarei, and Xi Chen. 2025. <br>
-         <u> *R&R at JAMA Network Open* </u>  <br>
+         <u> *Accepted JAMA Network Open* </u>  <br>
 
 **The Prediction of Alzheimer’s Disease through Multi-Trait Genetic Modeling** <br>
          Kaylyn Clark, Wei Fu<sup>++</sup>, Chia-Lun Liu, Pei-Chuan Ho, Hui Wang, Wan-Ping Lee, Shin-Yi Chou, Li-San Wang, Jung-Ying Tzeng. 2023. <br>
