@@ -68,7 +68,7 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 **NIH Grant Expansion, Ancestral Diversity and Scientific Discovery in Genomics Research** <br>
          Wei Fu<sup>+</sup>, Shin-Yi Chou, and Li-San Wang. 2026.  <br>
-         <u> Accepted, *Journal of Population Economic*</u>,  <br>
+         <u> Accepted, *Journal of Population Economics*</u>,  <br>
          <font size="3"> [[NBER Working Paper No. 30155](https://www.nber.org/papers/w30155)]</font>
 
 **From Syringes to Dishes: Improving Food Security through Vaccination** <br>
