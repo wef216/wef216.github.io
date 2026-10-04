@@ -73,7 +73,7 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 ### Cognitive Function in Later-Life
 
-**Improving Fairness in Aging-related AI: A Conceptual Model for Mitigating Biases.** <br>          Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2026. <br> <u> *Gerontologist* </u> 66, no. 5: gnag035. <br>          <font size="3"> \[[Published version](https://doi.org/10.1093/geront/gnag035)\]</font>
+**Improving Fairness in Aging-related AI: A Conceptual Model for Mitigating Biases.** <br>          Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2026. <br>          <u> *Gerontologist* </u> 66, no. 5: gnag035. <br>          <font size="3"> \[[Published version](https://doi.org/10.1093/geront/gnag035)\]</font>
 
 **The Inclusion of ADRD Hierarchical Condition Category in Medicare Advantage Risk Adjustment Model is Associated with Improved Access to Healthcare** <br>          Wei Fu<sup>+</sup>, Yuting Qian, Seyed Karimi, Hamid Zarei, and Xi Chen. 2026. <br>          <u> *JAMA Network Open* </u> 9, no. 3: e261796. <br>          <font size="3"> \[[Published version](doi:10.1001/jamanetworkopen.2026.1796)\]</font>
 
