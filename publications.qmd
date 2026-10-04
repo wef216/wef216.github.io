@@ -35,7 +35,7 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 **Local problems, local solutions: Evidence from the Drug-Free Communities program on Youth Development**<br>          Shijun You, Wei Fu, and Shin-Yi Chou. 2025. <br>          <u> *Submitted* </u> <br>          <font size="3"> \[[NBER Working Paper No. 34182](https://www.nber.org/papers/w34182)\]</font>
 
-**Capping the First Script: Initial Opioid Prescription Limits and Intimate Partner Violence** <br>          Wei Fu and Ashley C. Bradford. 2025 <br>          <u> *R&R at Journal of Health Economics*</u> <br>
+**Capping the First Script: Initial Opioid Prescription Limits and Intimate Partner Violence** <br>          Wei Fu and Ashley C. Bradford. 2025 <br>          <u> *Conditional acceptance at Journal of Health Economics*</u> <br>
 
 **The Devastating Dance between Opioid and Housing Crises: Evidence from OxyContin Reformulation** <br>          Ashley C. Bradford, Wei Fu, and Shijun You. 2024 <br>          <u> *Journal of Health Economics* </u> <br>          <font size="3"> \[[Published version](https://www.sciencedirect.com/science/article/abs/pii/S0167629624000754)\]</font>
 
@@ -73,9 +73,9 @@ Notes: \* corresponding author; <sup>+</sup> first author; <sup>++</sup> co-firs
 
 ### Cognitive Function in Later-Life
 
-**Improving Fairness in Aging-related AI: A Conceptual Model for Mitigating Biases.** <br>          Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2026. <br>          <u> *Accepted at Gerontologist* </u> <br>
+**Improving Fairness in Aging-related AI: A Conceptual Model for Mitigating Biases.** <br>          Qingwei Wang, Wei Fu, Huixin Zhong, Kexin Bao, and Jiawei Cao. 2026. <br> <u> *Gerontologist* </u> 66, no. 5: gnag035. <br>          <font size="3"> \[[Published version](https://doi.org/10.1093/geront/gnag035)\]</font>
 
-**The Inclusion of ADRD Hierarchical Condition Category in Medicare Advantage Risk Adjustment Model is Associated with Improved Access to Healthcare** <br>          Wei Fu<sup>+</sup>, Yuting Qian, Seyed Karimi, Hamid Zarei, and Xi Chen. 2025. <br>          <u> *Accepted JAMA Network Open* </u> <br>
+**The Inclusion of ADRD Hierarchical Condition Category in Medicare Advantage Risk Adjustment Model is Associated with Improved Access to Healthcare** <br>          Wei Fu<sup>+</sup>, Yuting Qian, Seyed Karimi, Hamid Zarei, and Xi Chen. 2026. <br>          <u> *JAMA Network Open* </u> 9, no. 3: e261796. <br>          <font size="3"> \[[Published version](doi:10.1001/jamanetworkopen.2026.1796)\]</font>
 
 **The Prediction of Alzheimer’s Disease through Multi-Trait Genetic Modeling** <br>          Kaylyn Clark, Wei Fu<sup>++</sup>, Chia-Lun Liu, Pei-Chuan Ho, Hui Wang, Wan-Ping Lee, Shin-Yi Chou, Li-San Wang, Jung-Ying Tzeng. 2023. <br>          <u> *Frontiers in Aging Neuroscience*</u> 15:1168638 <br>          <font size="3"> \[[Published version](https://www.frontiersin.org/articles/10.3389/fnagi.2023.1168638/full)\]</font>
 

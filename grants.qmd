@@ -24,13 +24,12 @@ css: /custom.css
 
 ## Submitted Grants
 
-**A Multidimensional Framework for Assessing Occupational Mismatch Across the Life Course and Its Cognitive and Mental Health Consequences** \
+**A Multidimensional Framework for Assessing Occupational Mismatch Across the Life Course and Its Cognitive and Mental Health Consequences**\
    Funding Agency: National Institutes of Health (R01)\
    Budget: \$1,433,380\
    Funding Period: 2026-2031\
    Role: PI\
    Site PI: Shin-Yi Chou (Lehigh U), Tzeng Jung-Ying (NC state), Pei-Chuan Ho, Li-San Wang (UPenn)\
-
 
 <center>
 
@@ -60,7 +59,6 @@ css: /custom.css
    Budget: \$103,323\
    Submitted Time: 2024\
    Role: PI\
-
 
 **Optimizing Kentucky’s Drug Control Strategies: An Evidence-Based Comparative Analysis of Community, Health Provider, and Government-led Policies**\
    Funding Agency: Kentucky Cabinet for Health and Family Services\
